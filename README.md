@@ -3,7 +3,7 @@
 Classifying 30-second epochs of a night's sleep into the five sleep stages, from the raw signals of a Dreem headband.
 
 Dreem Data Challenge 2023 — CentraleSupélec.
-Léa Coquet and [Nicolas Criscuolo](https://github.com/).
+Léa Coquet and Nicolas Criscuolo.
 
 ## The problem
 
